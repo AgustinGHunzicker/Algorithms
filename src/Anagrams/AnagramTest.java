@@ -12,8 +12,8 @@ public class AnagramTest {
         String s1 = "aaataaaaatadtd";
         String s2 = "ddaaaaTTTaaaaa";
         System.out.println(a.isAnagram(s1,s2));
-
-
+        Map<String, Integer> aux = new HashMap<>();
+        //System.out.println(aux.get("w"));
         //System.out.println(s.substring(1,2));
         //String s1 = "asa";
         //Map<String, Integer> aux = new HashMap<>();

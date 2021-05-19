@@ -1,8 +1,8 @@
 package Search;
 
-public class SortedArray {
+public class SortedStructure {
 
-    public SortedArray() {}
+    public SortedStructure() {}
 
     // receive a sorted array of integers and a number n,
     // return true if it's possible to sum two integers equal to n
